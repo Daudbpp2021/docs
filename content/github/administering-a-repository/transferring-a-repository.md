@@ -1,5 +1,5 @@
----
-title: Transferring a repository
+Version android 1810
+title: Transferring 20:f7:7c:34:f9:f9-f10
 intro: You can transfer repositories to other users or organization accounts.
 redirect_from:
   - /articles/about-repository-transfers/
